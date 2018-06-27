@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>TEDxParsUniversity</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#222222"> <!-- Android 5.0 Tab Color -->
+    <link rel="shortcut icon" href="http://tedxparsuniversity.com/assets/favicon.jpg">
+
+    <!-- Google Fonts -->
+    <!--<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500' rel='stylesheet' type='text/css'>-->
+    <!--<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700' rel='stylesheet' type='text/css'>-->
+
+    <!-- Icon Fonts CSS -->
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/knight-iconfont.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> -->
+
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/reset.css">
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/jquery.fs.shifter.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/video-js.min.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/animate.css">
+
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/main.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/shortcodes.css">
+    <link rel="stylesheet" href="http://tedxparsuniversity.com/assets/css/custom-bg.css">
+
+    <!-- JS -->
+    <script src="http://tedxparsuniversity.com/assets/js/vendor/modernizr-2.6.2.min.js"></script>
+    
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109709205-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109709205-2');
+</script>
+    
+</head>
+<body class="shifter shifter-left offcanvas-menu-left offcanvas-menu-dark mobile-header-style2 sticky-header sticky-dark">
+<!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<!-- mobile-header-wrapper -->
+<div class="mobile-header-wrapper style2 shifter-header dark-bg clearfix hidden-md hidden-lg">
+    <div class="shifter-handle style1">
+        <a href="#" class="bars">
+            <span></span>
+            <span></span>
+            <span></span>
+        </a><!-- /bars -->
+    </div><!-- /menu-trigger -->
+    <div class="logo-container">
+        <a href="#" class="logo">
+            <img src="http://tedxparsuniversity.com/assets/img/logo/logo5.png" alt="tedxparsuniversity">
+        </a>
+    </div><!-- /logo-container -->
+    <a href="#" class="search-form-trigger">
+        <i class="icon icon-knight-293"></i>
+    </a>
+    <div class="search-form-wrapper">
+        <form action="#" class="mobile-header-search-form">
+            <input type="search" name="mobile-header-search-form" id="mobile-header-search-form" placeholder="Type &amp; hit enter">
+        </form>
+        <span class="search-form-close-trigger">
+                    <i class="icon icon-knight-521"></i>
+                </span>
+    </div><!-- /search-form-wrapper -->
+</div>
+<!-- /mobile-header-wrapper -->
+
+
+<!-- OFF CANVAS MOBILE MENU -->
+<nav class="main-nav offcanvas-menu mobile-nav shifter-navigation fullwidth-items fullwidth-menu white-bg">
+    <form action="#" class="search-form">
+        <input type="search" name="mobile-search-form" id="mobile-search-form" placeholder="Search">
+        <input type="submit" value="">
+    </form>
+</nav>
+<div class="main-wrapper shifter-page">
+    <!-- Start main-header -->
+<header class="main-header style3 transparent-menu overlay-header">
+    <div class="main-header-inner">
+        <div class="main-bar padding-35 transparent-bg">
+            <div class="menu-container clearfix">
+                <div class="container">
+                    <div class="row">
+                        <nav class="main-nav style1 active-style1 left-menu col-md-5" id="main-nav">
+
+                            <div class="logo-container col-md-2">
+                                <a href="http://tedxparsuniversity.com" class="logo">
+                                    <img src="http://tedxparsuniversity.com/assets/img/logo/logo5.png" alt="TedxparsuniversityLogo">
+                                </a>
+                            </div>
+
+                            <ul class="clearfix">
+                                <li class="dropdown mega-menu full-width active">
+                                    <a  href="http://tedxparsuniversity.com">Home</a>
+                                </li>
+                                <li class="dropdown mega-menu full-width ">
+                                    <a  href="http://tedxparsuniversity.com/about">About</a>
+                                </li>
+
+
+
+                            </ul>
+                        </nav>
+                        <!-- /logo-container -->
+                        <nav class="main-nav style1 active-style1 right-menu col-md-5">
+                            <ul class="clearfix">
+
+
+                                <li class="dropdown mega-menu full-width ">
+                                    <a  href="http://tedxparsuniversity.com/team">Team</a>
+                                </li>
+                                <li class="dropdown mega-menu full-width ">
+                                  <a  href="http://tedxparsuniversity.com/speakers">Speakers</a>
+                                </li>
+
+                                <li class="dropdown mega-menu full-width ">
+                                    <a  href="http://tedxparsuniversity.com/sponsors">Sponsors</a>
+                                </li>
+
+                                <li class="dropdown mega-menu full-width ">
+                                <a  href="http://tedxparsuniversity.com/blog">Blog</a>
+                              </li>
+
+                                <li><a href="http://tedxparsuniversity.com/contact">Contact</a></li>
+
+                                <li class="icons">
+                                    <ul>
+                                                                                <li class="icon icon-search dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-knight-293"></i></a>
+                                            <div class="sub-menu dropdown-menu dropdown-search-form">
+                                                <form action="#" class="search-form">
+                                                    <input class="white-bg" type="text" placeholder="Search">
+                                                    <input type="submit" value="">
+                                                </form>
+                                            </div><!-- /sub-menu -->
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div><!-- /row -->
+                </div><!-- /container -->
+            </div><!-- /menu-container -->
+        </div><!-- /main-bar -->
+    </div><!-- /main-header-inner -->
+
+</header>
+<!-- End main-header -->    
+
+    <div  style="background-position: 50% 0%;">
+      <img src="http://tedxparsuniversity.com/assets/img/backgrounds/custom-bg.jpg" alt="Tedx pars university" style=" height: 150px; width: 100%" >
+
+    </div>
+
+
+    <section class="main-contents padding-top90">
+        <div class="container">
+            <div class="row">
+
+                <div class="post-container  col-md-12  ">
+
+                    <article class="post format-standard wow fadeInLeft">
+                        <figure class="entry-image ">
+                            <img  src="/system/App/Blog/images/000/000/024/medium/4.jpg" alt="tedxparsuniversity">
+                        </figure>
+                        <h1 class="entry-title">4th Session Of TEDxParsUniversity&#039;s Weekly Meetings</h1>
+                        <div class="entry-meta">
+                            <span>Posted: <a href="#"><time datetime="2014-03-16">March 16, 2014</time></a></span>
+                            <span>By: <a href="#">Parvane Alinasab</a></span>
+
+                        </div>
+                        <div class="" style="text-align: justify">
+                         <p> <p><strong>A</strong>t<strong> </strong>4th session<strong> </strong>of weekly meetings, due to presence of new members, a brief definition of the TED program and the reasons for the formation of the group was presented by the Co-organizer of the group. The session continued with a question from one of the members which argued the reasons of expression and expansion of ideas in TED, and was responded by the executive team and other members, and received the hottest part of the session on the fourth day. Different responses were provided by the present members, which summarizes the Organizer&#39;s response here:</p>
+
+<ul>
+	<li>In general, we cannot limit the status of &quot;having an idea and developing it&quot; to a particular group of people; each person has the ability to have an idea throughout his life and try to implement his idea; this can include the invention of a particular object, the presentation of a new technology, an individual design method, or even a lifestyle for a very ordinary person who has created a new idea and has somehow produced value in his life. In this regard, we are faced with two types of people:</li>
+</ul>
+
+<p>first, a group that has reached a particular achievement and has a toiling effort all its life and is considered to be the pioneer and the leader; therefore, it is necessary to express their idea to other people, in case of being leaders. (What needs to be noted is the language of speech, which needs to be completely fluent and easily expressed).</p>
+
+<p>The second group is people who are growing and improving, so it is necessary to express their ideas and make them known to experts in order to have their help to cultivate and develop their ideas. Therefor an idea is valuable as long as it is expressed and shared with others. while it is also noteworthy that the useful life of an idea is considered five years, so when the idea is not expressed, it may actually be obsolete and burn and you Lose a big chance in your life. <strong>Remember: Ideas must be spread.</strong></p>
+
+<p>After an engaging and Warn discussion, the categories and responsibilities for members were presented.</p>
+</p>
+                        </div><!-- /entry-content -->
+                        
+
+
+                </div>
+                <div class="" style="direction: rtl;text-align: justify">
+                    <p> <p>در جلسه هفتگی چهارم، با توجه به حضور اعضای جدید، تعریف مختصری از برنامه تد و دلایل شکل گیری گروه توسط <span dir="LTR">Co- organizer </span>&nbsp;گروه ارائه شد. ادامه جلسه با پرسش یکی از اعضای گروه در رابطه با ایده و دلایل بیان و گسترش آن و پاسخگوی تیم اجرائی و مشارکت سایر اعضا همراه بود و داغ ترین بخش جلسه روز چهارشنه را به خود اختصاص داد. پاسخ-های متفاوتی از طرف اعضای حاضر ارائه شد که بطور خلاصه پاسخ <span dir="LTR">Organizer</span> تیم در این جا آورده شده است:</p>
+
+<ul>
+	<li>بطور کلی نمی توانیم داشتن ایده و پروراندن آن را مختص یک سری افراد خاص بدانیم، هر شخصی این قابلیت را دارد که در طول زندگی خود ایده ای داشته باشد و برای عملی کردن ایده اش تلاش کند؛ این می تواند شامل اختراع یک شی خاص، ارائه یک تکنولوژی جدید، یک نوع طراحی منحصرد بفرد، و یا حتی یک نوع سبک زندگی مربوط به فردی کاملا معمولی باشد که ایده ای جدید را ذر بر داشته و به نوعی ارزش افزوده تولید کرده باشد. در این راستا با دو تیپ آدم مواجه هستیم: 1- گروهی که به دستاوردی خاص رسیده اند و تمام زندگی خود تلاش کردند و به گونه ای مولف و پیشرو به حساب می آیند، بنابراین لازم هست که ایده خود را برای افراد دیگر بیان کنند ( آن چه که باید مورد توجه قرار بگیرد زبان بیان هست که لازم است کاملا عامیانه و به سادگی بیان شود). 2- گروه دوم افرادی که در حال بزرگ شدن و ارتقا یافتن هستند، بنابراین لازم است تا ایده خود را بیان کنند و برای پرورش و <span dir="LTR">develop </span>&nbsp;ایده خود از کمک افراد متخصص بهره ببرند. بنابراین یک ایده زمانی ارزشمند است که بیان شود و به اشتراک گذاشته شود، ضمن اینکه این نکته نیز قابل توجه است که عمر مفید برای یک ایده 5 سال در نظر گرفته شده است پس وقتی ایده بیان نشود عملا ممکن است منسوخ شده و بسوزد و شما یک شانس بزرگ را از دست بدهید، به یاد داشته باشید: <span dir="LTR">Ideas must be spread</span>.</li>
+</ul>
+
+<p>بعد از یک بحث جذاب و گرم، کتگوری وظایف و مسئولیت ها برای انتخاب توسط اعضا ارائه شد.</p>
+</p>
+                </div><!-- /entry-content -->
+                <br> <br><br><br>
+                    </article>
+
+                </div><!-- /post-container -->
+
+            </div><!-- /row -->
+        </div><!-- /container -->
+    </section>
+
+
+
+
+    
+<footer class="main-footer padding-top0 dark-bg">
+    <div class="footer-bottom-bar clearfix">
+        <div class="container">
+            <p class="copyright uppercase">© 2017 TEDxParsUniversity. All Rights reserved. This independent TEDx event is operated under license from TED.</p>
+            <div class="socials-container">
+                <p class="uppercase">SOCIAL NETWORKS:</p>
+                <div class="widget widget-socials widget-socials-big">
+                    <ul class="clearfix">
+                        <li><a href="https://twitter.com/TEDxparsU" target="_blank"  rel="nofollow"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.facebook.com/tedx.parsuniversity" target="_blank"  rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/tedx-parsuniversity-44671614a" target="_blank"  rel="nofollow"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://www.instagram.com/tedxparsuniversity/?hl=en" target="_blank"  rel="nofollow"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube-square" ></i></a></li>
+                        <li><a href="#"><i class="fa fa-flickr"></i></a></li>
+
+
+
+                    </ul>
+                </div><!-- /widget-socials -->
+            </div><!-- /socials-container -->
+        </div><!-- /container -->
+    </div><!-- /footer-bottom-bar -->
+</footer><!-</div>
+
+<script src="http://tedxparsuniversity.com/assets/js/vendor/jquery.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/jquery.countdown.plugin.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/imagesloaded.pkgd.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/jquery.fs.shifter.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/jquery.countdown.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/jquery.stellar.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/owl.carousel.min.js"></script>
+
+<script src="http://tedxparsuniversity.com/assets/js/jquery.nav.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/wow.min.js"></script>
+<script src="http://tedxparsuniversity.com/assets/js/main.js"></script>
+
+<script src="/vendor/unisharp/laravel-ckeditor/ckeditor.js"></script>
+<!-- JS -->
+
+
+</body>
+</html>
